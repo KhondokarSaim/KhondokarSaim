@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khondokar Saim</h1>
-<h3 align="center">Data Science Enthusiast | Cybersecurity & Networking Aspirant | Final Year Student</h3>
+<h3 align="center">Final-year student diving deep into Data Science and Blockchain. Love turning raw data into insights and exploring decentralized tech. Always learning, always building!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khondokarsaim&label=Profile%20views&color=0e75b6&style=flat" alt="khondokarsaim" /> </p>
 
